@@ -1,0 +1,28 @@
+{
+  "name": "karma-grooscript",
+  "version": "0.0.1",
+  "author": "Anto Aravinth <anto.aravinth.cse@gmail.com>xw",
+  "description": "Grooscript for karma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grooscript",
+    "karma-grooscript"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/antoaravinth/karma-grooscript",
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/antoaravinth/karma-grooscript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/antoaravinth/karma-grooscript/issues"
+  },
+  "devDependencies": {
+    "karma": "^0.12.36",
+    "grooscript" : "1.1.1"
+  }
+}
+

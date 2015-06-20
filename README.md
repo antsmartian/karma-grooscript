@@ -1,0 +1,1 @@
+An grooscript plugin for karma
